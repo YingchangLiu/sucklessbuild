@@ -1,3 +1,6 @@
 [submodule "dwm/dwm-flexipatch"]
 	path = dwm/dwm-flexipatch
 	url = https://github.com/bakkeby/dwm-flexipatch.git
+[submodule "dwm/dwm_git"]
+	path = dwm/dwm_git
+	url = https://git.suckless.org/dwm
